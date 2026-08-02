@@ -52,3 +52,16 @@ Perform active network reconnaissance to identify live hosts, open ports, runnin
 nmap -sV -sC -p- <target-ip>
 
 
+
+#TryHackMe Room Completed: Hydra
+
+-Status:Completed ✅
+-Category:** Password Attacks & Network Brute-Forcing
+*Key Concepts Mastered:**
+  -Target enumeration for authentication endpoints (SSH, FTP, HTTP POST Forms).
+  -Crafting syntax for user/password list attacks using `rockyou.txt`.
+  -Capturing HTTP POST form parameters and specifying failure strings (`F=...`).
+  -Analyzing defense mechanisms (Rate limiting, MFA, Account Lockout policies).
+
+#Proof of Completion / Reflection:
+Successfully enumerated and cracked target credentials across multiple protocol modules in the Hydra lab. Reinforced proper thread management (`-t`) and performance optimization during dictionary attacks.
