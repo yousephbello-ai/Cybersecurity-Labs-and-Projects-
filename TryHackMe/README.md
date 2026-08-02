@@ -47,7 +47,6 @@ Analyze raw packet captures (`.pcap`) to detect unencrypted credentials, inspect
 Perform active network reconnaissance to identify live hosts, open ports, running service versions, and underlying operating systems.
 
 #Scan Flags & Methodology
-```bash
 # Comprehensive service version detection & default script scan
 nmap -sV -sC -p- <target-ip>
 
