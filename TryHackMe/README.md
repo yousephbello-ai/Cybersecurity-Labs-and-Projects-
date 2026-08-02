@@ -21,7 +21,7 @@ Understand basic Linux system navigation, file management, permissions, and log 
 * `chmod 700`: Restrict file access exclusively to the file owner.
 * `awk` / `sed`: Parse and extract specific columns from plain-text security logs.
 
-#📸 Lab Proof & Screenshot
+
 
 
 
@@ -36,7 +36,7 @@ Analyze raw packet captures (`.pcap`) to detect unencrypted credentials, inspect
 *Display Filter `http.request.method == "POST"`:** Filters for form submissions, often exposing cleartext login attempts.
 *Follow TCP Stream:** Reconstructs the complete conversation between client and server to observe transmitted payloads.
 
-#📸 Lab Proof & Screenshot
+
 
 
 
@@ -51,4 +51,4 @@ Perform active network reconnaissance to identify live hosts, open ports, runnin
 # Comprehensive service version detection & default script scan
 nmap -sV -sC -p- <target-ip>
 
-#📸 Lab Proof & Screenshot
+
