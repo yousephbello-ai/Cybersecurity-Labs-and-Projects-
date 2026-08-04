@@ -1,21 +1,21 @@
-# Day 1: Cybersecurity Foundations & Core Frameworks
+Day 1: Cybersecurity Foundations & Core Frameworks
 
-## Key Concepts Mastered
+# Key Concepts Mastered
 
-### 1. The CIA Triad
-* **Confidentiality:** Preserving authorized restrictions on information access and disclosure.
-* **Integrity:** Guarding against improper information modification or destruction.
-* **Availability:** Ensuring timely and reliable access to and use of information.
+#1. The CIA Triad
+* **Confidentiality: Preserving authorized restrictions on information access and disclosure.
+* **Integrity: Guarding against improper information modification or destruction.
+* **Availability: Ensuring timely and reliable access to and use of information.
 
-### 2. NIST Cybersecurity Framework (CSF)
-* **Identify:** Organizational understanding to manage cybersecurity risk to systems, assets, data, and capabilities.
-* **Protect:** Safeguards to ensure delivery of critical infrastructure services.
-* **Detect:** Activities to identify the occurrence of a cybersecurity event.
-* **Respond:** Actions regarding a detected cybersecurity incident.
-* **Recover:** Plans for resilience and to restore capabilities or services impaired due to an incident.
+#2. NIST Cybersecurity Framework (CSF)
+* **Identify: Organizational understanding to manage cybersecurity risk to systems, assets, data, and capabilities.
+* **Protect: Safeguards to ensure delivery of critical infrastructure services.
+* **Detect: Activities to identify the occurrence of a cybersecurity event.
+* **Respond: Actions regarding a detected cybersecurity incident.
+* **Recover: Plans for resilience and to restore capabilities or services impaired due to an incident.
 
 ## Practical Lab Execution
-* **Lab:** TryHackMe - Intro to Defensive Security
-* **Practical Scenarios Resolved:**
-  1. Identified a DoS/DDoS attack vector as a violation of the **Availability** pillar in the CIA Triad.
+* **Lab: TryHackMe - Intro to Defensive Security
+* **Practical Scenarios Resolved:
+  1. Identified a DoS/DDoS attack vector as a violation of the "Availability"pillar in the CIA Triad.
   2. Classified Network Intrusion Detection Systems (NIDS) under the **Detect** function of the NIST CSF.
