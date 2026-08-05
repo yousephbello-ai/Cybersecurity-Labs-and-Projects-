@@ -1,0 +1,22 @@
+Day 3: Core Linux Navigation & File Operations
+
+🎯 Focus & Objectives
+Focused on fundamental Linux terminal commands, mastering absolute vs. relative pathing, and directory management.
+
+🛠️ Key Commands & Concepts Covered
+*Pathing Mechanics:** Understood the difference between Absolute (`/home/user/...`) and Relative (`../..`) pathing.
+*Directory Navigation:** `pwd`, `ls -la` (including hidden files), and `cd`.
+*File Operations:**
+ Created files and directory structures with `touch` and `mkdir -p`.
+ Managed assets using `cp -r` (recursive copy), `mv` (move/rename), and `rm -rf`.
+
+💻 Practical Workflow Executed
+```bash
+#Set up working directory structure
+mkdir -p ~/cyber_labs/day3 && cd ~/cyber_labs/day3
+
+Manipulate files and directories
+touch file1.txt file2.txt .hidden_config
+mkdir backup
+cp file1.txt backup/
+mv file2.txt backup/renamed_file2.txt
