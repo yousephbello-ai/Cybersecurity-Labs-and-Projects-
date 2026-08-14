@@ -1,12 +1,12 @@
-# TryHackMe: Inside a Computer System - Writeup & Notes
+# Inside a Computer System - Writeup & Notes
 
-## 📌 Room Overview
+##  Room Overview
 * **Module:** Inside a Computer System
 * **Platform:** TryHackMe
 * **Category:** Core Fundamentals / Systems Architecture
 
 
-## 🔑 Key Takeaways & Core Concepts
+## Key Takeaways & Core Concepts
 
 # 1. Computer Architecture & Components
 * **CPU (Central Processing Unit):** The "brain" executing arithmetic/logic operations (ALU, Control Unit, Registers).
